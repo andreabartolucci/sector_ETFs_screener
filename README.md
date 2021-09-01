@@ -18,4 +18,4 @@ The basic ETFs info are integrated with the following measure computed on the hi
 11. last 30 weeks max ret
 12. last 30 weeks max ret
 
-Both Sharpe-ratio and mean-variance optimal portfolios are calculate and the results presented and plotted. The portfolio optimizations are realized using the library pypfopt.
+Both Sharpe-ratio and mean-variance optimal portfolios are calculated and the results presented and plotted. The portfolio optimizations are realized using the library pypfopt.
